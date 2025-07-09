@@ -5,7 +5,10 @@ A full-featured e-commerce shopping cart application built with the MERN stack (
 ⸻
 
 📸 Screenshots
+<img width="1342" alt="image" src="https://github.com/user-attachments/assets/87e2fffd-26e4-4c57-86c5-d32b56d5d9a8" />
 <img width="1261" alt="image" src="https://github.com/user-attachments/assets/5d59d430-8f84-4b7f-9a17-fe9b37772b9e" />
+<img width="1274" alt="image" src="https://github.com/user-attachments/assets/26217421-6042-4e1f-81e1-872be3171701" />
+
 
 ⚙️ Tech Stack
 
