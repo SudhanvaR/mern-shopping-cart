@@ -19,7 +19,7 @@ A full-featured e-commerce shopping cart application built with the MERN stack (
  
 	•	API Testing: Postman
  
-	•	Deployment: (Fill in once deployed: Vercel, Render, etc.)
+	•	Deployment: Render.com
 
 ⸻
 
